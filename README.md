@@ -1,5 +1,5 @@
 # PharmacyManagementSystem
-## Pharmacy Dispensing Management System || Python Django
+## 🔥Pharmacy Dispensing Management System || Python Django
   
   
    <p>This is a simple Pharmacy's Dispensing Management System programmed using Python Django. The system has 5 types of users are the Administrator, Pharmacist, Doctor, and Receptionist(pharmacyClerk) and Patient.This project has user-friendly functionalities.</p>
