@@ -11,22 +11,22 @@ Pharmacy Dispensing Management System || Python Django
 - password: 1234  
 
 ------------------------------------------------------------------------------------
-Patient Login:
+### Patient Login:
 - Username: patient1
 - password: 1234
 
 -----------------------------------------------------------------------------------
-Pharmacist Login:
+### Pharmacist Login:
 - Username: pharmacist1
 - password: 1234
 
 -------------------------------------------------------------------------------------
-PharmacyClerk Login:
+### PharmacyClerk Login:
 - Username: pharmacyclerk1
 - password: 1234
 
 ------------------------------------------------------------------------------------
-Doctor Login:
+### Doctor Login:
 - Username: doctor1
 - password: 1234
 -----------------------------------------------------------------------------------
