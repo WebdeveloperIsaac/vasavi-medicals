@@ -36,7 +36,7 @@
      - Manage Medicinal Drugs
      - Manage Stocks
      - Dispense Medicinal Drug
-     - Manage Personal Account
+     - Manage Personal Accounti
 
 ------------------------------------------------------------------------------------
 ### Patient Login:
