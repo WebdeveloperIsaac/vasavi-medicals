@@ -1,28 +1,9 @@
 # PharmacyManagementSystem
-<h2>🔥Vasavi Medicals Management System || Python Django ||Compsoft Technologies || @WebDevelopIsaac</h2>
+<h2>🔥Vasavi Medical Management System || Python Django ||Compsoft Technologies || @WebDeveloperIsaac</h2>
 <h3>Team : Abhi | Keerthana | Sagar | Harshitha</h3>
   
    <p>Vasavi Medicals Management System programmed using Python Django. The system has 5 types of users are the Administrator, Pharmacist, Doctor, and Clerk & Patient</p>
    <h3>Deployment Link : https://vasavimedicals.herokuapp.com/ </h3>
-<div> <img src="![](ScreenShots/Login%20Page.png)" width="400" height="200" />
-<img src="![](ScreenShots/admin%20Panel.png)" width="400" height="200" />
-</div>
-<div> <img src="![](ScreenShots/add%20prescription%20from%20doctor.png)" width="400" height="200" />
-<img src="![](ScreenShots/clerk%20dashboard.png)" width="400" height="200" />
-    <img src="![](ScreenShots/doctor%20dashboard.png)" width="400" height="200" />
-</div>
-<div>
-<img src="![](ScreenShots/Medical%20Products.png)" width="400" height="200">
-<img src="![](ScreenShots/patient%20dashboard.png)" width="400" height="200">
-<img src="![](ScreenShots/Patient%20Dispense.png)" width="400" height="200">
-
-</div>
-<div>
-<img src="![](./ScreenShots/patient%20feedback.png)" width="400" height="200">
-<img src="![](./ScreenShots/Pharmacist%20and%20Patient%20Chat%20System.png)" width="400" height="200">
-<img src="![](./ScreenShots/staff%20add%20the%20patient.png)" width="400" height="200">
-
-</div>
 
 This is OpenSource for Now Do Sponser to Keep it Alive and all
 ## Run these Commads
@@ -35,7 +16,18 @@ If  You want to install this to your localHost
 ### Step 3
      python manage.py runserver
 -----------------------------------------------------------------------------------
-
+![](ScreenShots/add%20prescription%20from%20doctor.png)
+![](ScreenShots/admin%20Panel.png)
+![](ScreenShots/clerk%20dashboard.png)
+![](ScreenShots/doctor%20dashboard.png)
+![](ScreenShots/Login%20Page.png)
+![](ScreenShots/Medical%20Products.png)
+![](ScreenShots/patient%20dashboard.png)
+![](ScreenShots/Patient%20Dispense.png)
+![](ScreenShots/patient%20feedback.png)
+![](ScreenShots/Pharmacist%20Dashboard%20Panel.png)
+![](ScreenShots/syrup.png)
+![](ScreenShots/Pharmacist%20and%20Patient%20Chat%20System.png)
 ### Admin User Login: 
 - Username: admin
 - password: 1234  
