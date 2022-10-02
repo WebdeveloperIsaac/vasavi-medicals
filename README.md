@@ -1,5 +1,6 @@
-# PharmacyManagementSystem
-<h2>🔥Pharmacy Dispensing Management System || Python Django</h2>
+# VasaviManagementMedicalsSystem
+<h2>🔥Vasavi Medical Management System || Python Django||@WebDeveloperIsaac</h2>
+<h3>Team : Keerthana | Abhishek | Sagar | Harshitha |</h3> 
   
   
    <p>This is a simple Pharmacy Management System programmed using Python Django. The system has 5 types of users are the Administrator, Pharmacist, Doctor, and Receptionist(pharmacyClerk) and Patient.This project has user-friendly functionalities.</p>
@@ -40,8 +41,8 @@
 
 ------------------------------------------------------------------------------------
 ### Patient Login:
-- Username: patient1
-- password: 1234
+- Username: patient
+- password: patient
 
            Patient Main Featues
      -  Manage his/her medications
@@ -51,8 +52,8 @@
  
 -----------------------------------------------------------------------------------
 ### Pharmacist Login:
-- Username: pharmacist1
-- password: 1234
+- Username: pharmacist
+- password: pharmacist
 
         Pharmacist  Main Features
      - Manage Medicinal Drugs
@@ -65,8 +66,8 @@
 
 -------------------------------------------------------------------------------------
 ### PharmacyClerk Login:
-- Username: pharmacyclerk1
-- password: 1234
+- Username: clerk
+- password: clerk
 
             Receptionist Main Features
      - Manage Admissions/Patients
@@ -74,18 +75,15 @@
 
 ------------------------------------------------------------------------------------
 ### Doctor Login:
-- Username: doctor1
-- password: 1234
+- Username: doctor
+- password: doctor
         
         Doctor Main Featues
      - Manage Patient's Prescription
      - Manage Personal Account
    
 -----------------------------------------------------------------------------------
-
-N/B: When adding New patient there are some validations in filling the forms 
-     For easy filling of forms use fake filler extension in chrome 
-     Fake Filler Extension Chrome link:https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
+form validatino is there so carefully fill the forms or just you know is an extension like form filler or Something
 
 --------------------------------------------------------------------------------------
 
