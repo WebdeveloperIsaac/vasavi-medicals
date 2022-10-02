@@ -18,9 +18,9 @@
 
 </div>
 <div>
-<img src="![](ScreenShots/patient%20feedback.png)" width="400" height="200">
-<img src="![](ScreenShots/Pharmacist%20and%20Patient%20Chat%20System.png)" width="400" height="200">
-<img src="![](ScreenShots/staff%20add%20the%20patient.png)" width="400" height="200">
+<img src="![](./ScreenShots/patient%20feedback.png)" width="400" height="200">
+<img src="![](./ScreenShots/Pharmacist%20and%20Patient%20Chat%20System.png)" width="400" height="200">
+<img src="![](./ScreenShots/staff%20add%20the%20patient.png)" width="400" height="200">
 
 </div>
 
